@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\lenovo\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\源.cpp(4): warning C4005: “YELLOW”: 宏重定义
+  d:\visual studio\vc\include\easyx.h(61): note: 参见“YELLOW”的前一个定义
+c:\users\lenovo\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\源.cpp(174): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
